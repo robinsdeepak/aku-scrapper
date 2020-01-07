@@ -1,0 +1,20 @@
+{
+  "16": {
+    "sem1": "http://akuexam.net/Results/ResultBTech1stSemPub16.aspx?RegNo=",
+    "sem2": "http://akuexam.net/Results/ResultBTech2ndSemPub17.aspx?Sem=II&RegNo=",
+    "sem3": "http://akuexam.net/Results/ResultBTechPharm3rdSemPub17.aspx?Sem=III&RegNo=",
+    "sem4": "http://akuexam.net/Results/ResultBTechBPharm4thSemPub18.aspx?Sem=IV&RegNo=",
+    "sem5": "http://akuexam.net/Results/ResultsBTechPharm5thSemPub18.aspx?Sem=V&RegNo=",
+    "sem6": "http://akuexam.net/Results/ResultsBTechPharm6thSemPub19.aspx?Sem=VI&RegNo="
+  },
+  "17": {
+    "sem1": "http://akuexam.net/Results/ResultBTechPharm1stSemPub17.aspx?Sem=I&RegNo=",
+    "sem2": "http://akuexam.net/Results/ResultBTechBPharm2ndSemPub18.aspx?Sem=II&RegNo=",
+    "sem3": "http://akuexam.net/Results/ResultsBTechPharm3rdSemPub18.aspx?Sem=III&RegNo=",
+    "sem4": "http://akuexam.net/Results/ResultsBTechPharm4thSemPub19.aspx?Sem=IV&RegNo="
+  },
+  "18": {
+    "sem1": "http://akuexam.net/Results/ResultsBTechPharm1stSemPub18.aspx?Sem=I&RegNo=",
+    "sem2": "http://akuexam.net/Results/ResultsBTechPharm2ndSemPub19.aspx?Sem=II&RegNo="
+  }
+}

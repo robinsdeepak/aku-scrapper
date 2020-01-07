@@ -1,0 +1,918 @@
+{
+  "102": {
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ],
+    "110": [
+      "Electrical & Electronics Engineering",
+      "EEE",
+      60
+    ]
+  },
+  "103": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      180
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      180
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ],
+    "110": [
+      "Electrical & Electronics Engineering",
+      "EEE",
+      120
+    ]
+  },
+  "106": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      120
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      120
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ]
+  },
+  "107": {
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ],
+    "106": [
+      "Information Technology",
+      "IT",
+      60
+    ]
+  },
+  "108": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      30
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      45
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      45
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      40
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      40
+    ]
+  },
+  "109": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      40
+    ]
+  },
+  "111": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ]
+  },
+  "113": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ]
+  },
+  "117": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ]
+  },
+  "121": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      54
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      54
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      54
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      54
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      54
+    ]
+  },
+  "123": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      30
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      30
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      30
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      30
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      30
+    ]
+  },
+  "124": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ]
+  },
+  "125": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ]
+  },
+  "126": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ],
+    "110": [
+      "Electrical & Electronics Engineering",
+      "EEE",
+      60
+    ]
+  },
+  "127": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ]
+  },
+  "128": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ]
+  },
+  "129": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ]
+  },
+  "130": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "131": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "132": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "133": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "134": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "135": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "139": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      120
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      120
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      120
+    ],
+    "105": [
+      "Computer Science Engineering",
+      "CSE",
+      60
+    ],
+    "110": [
+      "Electrical & Electronics Engineering",
+      "EEE",
+      60
+    ]
+  },
+  "141": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ]
+  },
+  "142": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "143": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "144": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ]
+  },
+  "145": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "146": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "147": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "148": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "149": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ]
+  },
+  "150": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ]
+  },
+  "151": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ]
+  },
+  "152": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ]
+  },
+  "153": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ]
+  },
+  "154": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ]
+  },
+  "155": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "156": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "111": [
+      "Instrumentation Engineering",
+      "IE",
+      60
+    ]
+  },
+  "157": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ],
+    "104": [
+      "Electronics & Communication Engineering",
+      "ECE",
+      60
+    ]
+  },
+  "158": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ]
+  },
+  "159": {
+    "101": [
+      "Civil Engineering",
+      "CE",
+      60
+    ],
+    "102": [
+      "Mechanical Engineering",
+      "ME",
+      60
+    ],
+    "103": [
+      "Electrical Engineering",
+      "EE",
+      60
+    ]
+  }
+}
