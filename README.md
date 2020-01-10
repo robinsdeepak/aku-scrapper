@@ -1,4 +1,4 @@
-```This code is written to track AKU official website for B.Tech Results, Download new published results and upload it to https://bcepatna.tk```
+```This code is written to track AKU official website for B.Tech Results, Download new published results and upload it to``` https://bcepatna.tk
 
 ```
 Dependencies:
@@ -6,4 +6,7 @@ Dependencies:
  > linux server
  > chromedriver
  > selenium
+ > mailjet credentials 
+   for automated mails and sms
  ```
+ 
