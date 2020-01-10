@@ -105,3 +105,10 @@ def mailjet_sms(message_data):
         f.write(log_data)
 
     log_error("SMS status: " + log_data, 'mailjet_logs.txt')
+
+
+def add_tracker(tracker_code, file):
+    with open(file) as f:
+        fcode = f.read()
+    with open(file, 'w') as f:
+        f.write(fcode.replace('</header>', tracker_code + '\n</header>'))
