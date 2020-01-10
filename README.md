@@ -2,11 +2,22 @@
 
 ```
 Dependencies:
- > python3
- > linux server
- > chromedriver
- > selenium
- > mailjet credentials 
-   for automated mails and sms
- ```
+     > linux server
+     > python3
+     > tmux
+     > chromedriver
+     > selenium
+     > mailjet credentials 
+       for automated mails 
+       and sms
+```
+
+https://www.mailjet.com
+
+After installing all the dependencies, run
+ 
+ `python3 run_tracker.py`
+ 
+For other features like extracting student information:
+ run `python3 run.py` after setting the parameters in `vars.py` and `run.py`
  
