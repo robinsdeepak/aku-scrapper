@@ -122,5 +122,9 @@ if __name__ == '__main__':
             mailjet_mail('Error', time.ctime() + "\n\n" + str(e))
             t_last_err_sms = time.time()
 
+            # update initial states
+            init_state = get_initial_state(result_link)
+            if DEBUG: print(time.ctime(), "----    Initial state updated...")
+
         chrome.quit()
         time.sleep(params.delay)
